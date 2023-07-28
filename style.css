@@ -61,7 +61,7 @@
     display: flex;
     justify-content: space-evenly;
     height: 40px;
-    width: 650px;
+    width: 900px;
     background-color: pink;
     border-radius: 4px;
 }
@@ -201,4 +201,20 @@ span{
     justify-content: center;
     align-items: center;
     font-size: 0.85rem;
+}
+.foot-cont{
+    background-color: #222f3d;
+    color: #e2e7e6;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.foot{
+    text-decoration: none;
+    list-style-type: none;
+    display: list-item;
+}
+.foot p{
+    margin-top: 10px;
 }
